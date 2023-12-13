@@ -11,10 +11,6 @@
 
 ⏳ Year progress { ████████████████████████████▁▁ } 94.87 %
 
-### My GitHub Contributions    
-
-![](https://raw.githubusercontent.com/wang-xiaowu/wang-xiaowu/main/assets/github-contribution-grid-snake.svg)
-
 ### Talking about Personal Stuffs  
 
 - 🔭 I’m currently striving for a better life in HangZhou.     
