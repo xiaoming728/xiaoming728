@@ -9,8 +9,6 @@
 ### Hi there 👋 
 ### I'm xiaoming, an ordinary programmer. 
 
-⏳ Year progress { ████████████████████████████▁▁ } 94.87 %
-
 ### Talking about Personal Stuffs  
 
 - 🔭 I’m currently striving for a better life in HangZhou.     
