@@ -23,7 +23,6 @@
 - 🔧 Languages & Frameworks & Tools & Abilities: </br>    
 
 ![Java](https://img.shields.io/badge/-Java-green?style=social&logo=OpenJDK)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&style=social)&nbsp;&nbsp;
 ![Shell](https://img.shields.io/badge/-Shell-brightgreen?style=social&logo=Shell)&nbsp;&nbsp;
 ![Nginx](https://img.shields.io/badge/-Nginx-black?logo=nginx&style=social)&nbsp;&nbsp;
